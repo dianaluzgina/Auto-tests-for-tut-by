@@ -1,0 +1,7 @@
+*.log
+*.db
+bin/
+target/
+.idea/
+test-output/
+out/artifacts/Resliv_test_jar/test-output
